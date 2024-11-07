@@ -27,8 +27,8 @@ var fs = require('fs'),
 
 var variableName = {
     i18nGo: 'i18n=>',
-    nestStart: '=>',
-    nestEnd: '<='
+    nestStart: '-=>',
+    nestEnd: '<=-'
 };
 
 var variable = {
